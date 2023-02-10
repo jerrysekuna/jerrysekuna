@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jerrysekuna
-- 👀 I’m a DevOps Engineering 
+- 👀 I’m a DevOps Engineer
 - 🌱 Expert in python terraform ansible and Kubernetes
 - 💞️ I’m looking to collaborate on with other DevOps engineers
 - 📫 How to reach me jerry.pivaga@ryerson.ca
